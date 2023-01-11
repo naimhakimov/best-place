@@ -111,7 +111,7 @@ img {
   font-weight: 500;
 }
 .item img {
-  max-width: 500px;
+  max-width: 100%;
 }
 
 .content__decription {
