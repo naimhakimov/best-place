@@ -87,9 +87,9 @@ img {
 }
 
 .content {
-  padding: 80px 0 0 0;
+  padding: 80px 0 20px 0;
   flex: 1 1 auto;
-  min-height: calc(100% - 136px);
+  min-height: calc(100% - 156px);
 }
 
 .content-card {
